@@ -1,0 +1,54 @@
+/* shared color */
+body {
+    font-family: 'Lato', sans-serif;
+}
+
+.banner{
+    background: rgba(229, 84, 115, 0.10);
+     
+    /* color: #272727; */
+    font-size: 20px;
+     */
+     justify-content: around; 
+      /* margin-top: 50px; */
+     display: flex;
+    
+     
+}
+
+.banner-title {
+    color: #272727;
+    font-family: Lato;
+    font-size: 70px;
+    font-style: normal;
+    font-weight: 800;
+    line-height: normal;
+}
+
+.p-style {
+    color: rgba(39, 39, 39, 0.60);
+    font-family: Lato;
+    font-size: 18px;
+    font-style: normal;
+    font-weight: 400;
+  
+    /* 166.667% */
+}
+
+.btn-primary {
+    color: #FFF;
+    font-size: 20px;
+    /* font-weight: 700; */
+    border-radius: 3px;
+    background: #E55473;
+    border: 0;
+    padding: 15px 35px;
+}
+.banner-content{
+    padding: 240px;
+}
+.imge-edit{
+    padding:30px 30px 100px;
+    /* width: 500px;
+    height: 800px; */
+} 
