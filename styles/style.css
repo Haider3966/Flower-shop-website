@@ -111,7 +111,55 @@ body {
     background-position: right bottom;
 }
 
-.bonus-mark {
-    
-    
+.main {
+    display: flex;
+    gap: 50px;
+    padding: 150px;
+    justify-content: space-around;
+    background: rgba(229, 84, 115, 0.10);
+    width: 1000px;
+    height: 150px;
+    flex-shrink: 0;
+    margin: 181px;
+      
+
+}
+
+main-c {
+    color: rgba(39, 39, 39, 0.80);
+    font-family: Lato;
+    font-size: 30px;
+    font-style: normal;
+    font-weight: 600;
+    line-height: 35px;
+    text-align: left;
+    margin-top: 100px;
+   
+
+
+}
+
+main-d {
+    color: rgba(39, 39, 39, 0.80);
+    text-align: center;
+    font-family: Lato;
+    font-size: 30px;
+    font-style: normal;
+    font-weight: 600;
+    line-height: 35px;
+    /* 145.833% */
+}
+
+main-e {
+    color: rgba(39, 39, 39, 0.80);
+    text-align: center;
+    font-family: Lato;
+    font-size: 30px;
+    font-style: normal;
+    font-weight: 600;
+    line-height: 35px;
+    /* 145.833% */
+}
+.pr-style{
+      display: flex;
 }
